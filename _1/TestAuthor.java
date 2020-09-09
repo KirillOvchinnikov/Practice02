@@ -1,4 +1,4 @@
-package ru.mirea.Practice02;
+package ru.mirea.Practice02._1;
 
 public class TestAuthor {
     public static void main(String[] args) {
